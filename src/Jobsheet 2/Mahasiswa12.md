@@ -27,3 +27,8 @@ nilaiKinerja() method?
 
 3. The Mahasiswa class has 4 methods: tampilkanInformasi(), ubahKelas(), updateIpk(), and nilaiKinerja().
 
+4. done make the code
+
+5. The method evaluates student performance based on the ipk value using conditional checks. If ipk >= 3.5 → returns "Kinerja sangat baik", if ipk >= 3.0 → returns "Kinerja baik", if ipk >= 2.0 → returns "Kinerja cukup", otherwise → returns "Kinerja kurang". It returns a String describing the student's performance category.
+
+6. commited
