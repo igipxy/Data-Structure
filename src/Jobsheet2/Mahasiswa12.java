@@ -1,4 +1,12 @@
+package Jobsheet2;
+
 public class Mahasiswa12 {
+    public Mahasiswa12(String string, String string2, double d, String string3) {
+    }
+
+    public Mahasiswa12() {
+    }
+
     public static void main(String[] args) {
         
     }
@@ -44,6 +52,10 @@ public class Mahasiswa12 {
     
     
     
+    }
+
+    public String nilaiKinerja(double ipk2) {
+        throw new UnsupportedOperationException("Unimplemented method 'nilaiKinerja'");
     }
 
 }
