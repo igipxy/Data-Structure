@@ -1,5 +1,3 @@
-Baik 👍 berikut adalah **answers to all questions from Jobsheet 3** dalam **bahasa Inggris yang rapi dan siap dikumpulkan**.
-
 ---
 
 # PRACTICUM 3.2 – Questions & Answers
@@ -231,3 +229,4 @@ This follows **Single Responsibility Principle**, where:
 * `DosenDemo` runs the program
 
 This makes the program modular and easier to maintain.
+
