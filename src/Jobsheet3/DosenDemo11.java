@@ -11,7 +11,7 @@ public class DosenDemo11 {
         int length = sc.nextInt();
         sc.nextLine();
 
-        Dosen11[] arrayOfDosen = new Dosen[length];
+        Dosen11[] arrayOfDosen = new Dosen11[length];
 
         for (int i = 0; i < length; i++) {
 
@@ -30,11 +30,11 @@ public class DosenDemo11 {
             int age = sc.nextInt();
             sc.nextLine();
 
-            arrayOfDosen[i] = new Dosen(code, name, gender, age);
+            arrayOfDosen[i] = new Dosen11(code, name, gender, age);
             System.out.println();
         }
 
-        DataDosen11 data = new DataDosen();
+        DataDosen11 data = new DataDosen11();
 
         System.out.println("===== ALL LECTURERS =====");
         data.dataAllDosen(arrayOfDosen);
